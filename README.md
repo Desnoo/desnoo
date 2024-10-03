@@ -1,16 +1,16 @@
-### Hi there 👋
+Profession: DevOps Engineer 🔧
+- Tools: Docker, Kubernetes, CI/CD Pipelines, AWS
 
-<!--
-**Desnoo/desnoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profession: Backend Developer 🖥️
+- Language: TypeScript, JavaScript, Node.js
+- Frameworks: Express, NestJS
 
-Here are some ideas to get you started:
+Profession: Frontend Specialist 🚀
+- Language: TypeScript
+- Framework: Angular
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Profession: System Design Architect 🏗️
+- Expertise: Designing robust, scalable systems and architectures
+
+Profession: AI Enthusiast 🤖
+- Focus: Exploring emerging tools in the AI spectrum
